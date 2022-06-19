@@ -41,4 +41,4 @@ if (allMoney > coffeeBeans) {
             else { allMoney -=pizza}
         
     }
-console.log ('Залишок в гаманці:', allMoney)
+console.log ('Залишок в гаманці:', allMoney) 

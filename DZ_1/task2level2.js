@@ -24,4 +24,4 @@ if (allMoney >= coffeeBeans) {
     allMoney -= coffeeBeans
 }
 
-console.log ('Залишок в гаманці:', allMoney ,'\n','Не вистачає грошей на нову покупку')
+console.log ('Залишок в гаманці:', allMoney ,'\n','Не вистачає грошей на нову покупку') 

@@ -14,4 +14,4 @@ let netProfit = incomeMoney - spending // чистий прибуток
 const finalMessage = (`Доброго дня, ${name}, даю результат роботи за ${april}.  , 
 В цьому місяці ми продали товару на загальну суму ${incomeMoney} грн, а наші витарати склали ${spending} грн.
 Таким чином наш чистий прибуток = ${netProfit} грн`)
-console.log (finalMessage) 
+console.log (finalMessage)  
