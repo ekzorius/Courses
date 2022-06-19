@@ -10,4 +10,4 @@ const coffeeBeans = 300;
 
 const result = allMoney - apple - milk - pizza - meat;
 
-console.log('Залишок в гаманці:', result)
+console.log('Залишок в гаманці:', result) 
